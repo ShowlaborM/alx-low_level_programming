@@ -1,6 +1,8 @@
-#include <stdio.h>
+#include "main.h"
+
 /**
  * This program prints _putchar in the stc output
+ * followed by a new line
  * Return: Always 0 (Success)
 */
 int main(void)
